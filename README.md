@@ -9,10 +9,6 @@
 
 ---
   
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zuicy99)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
-
 
 [![zuicy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuicy99&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/zuicy99/github-readme-stats)
  
