@@ -29,10 +29,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
 
  
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-
-</div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
