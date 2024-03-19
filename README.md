@@ -4,7 +4,7 @@
 
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20zuicy99's%20GitHub%20👋&animation=&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20zuicy99's%20GitHub%20👋&animation=&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
 
 ---
