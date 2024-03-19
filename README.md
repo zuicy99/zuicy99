@@ -8,7 +8,7 @@
 [![Velog's GitHub stats][(https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c]([https://github.com/eungyeole/velog-readme-stats](https://github.com/zuicy99)https://github.com/zuicy99)
 
 
-<div align="left">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
@@ -24,7 +24,7 @@
     <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <a href="[https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
@@ -34,10 +34,7 @@
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:dlwlgh1254@gmail.com">
+    <a href="mailto:juyoung2211@naver.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
