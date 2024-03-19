@@ -9,4 +9,4 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://github.com/eungyeole/velog-readme-stats)
+[![노션 포트폴리오 바로가기](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)]([https://github.com/eungyeole/velog-readme-stats](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
