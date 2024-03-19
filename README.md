@@ -1,19 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuicy99)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuicy99)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Velog's GitHub stats][(https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c]([https://github.com/eungyeole/velog-readme-stats](https://github.com/zuicy99)https://github.com/zuicy99)
 
 
-<div align="center">
+<div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20zuicy99's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20zuicy99's%20GitHub%20👋&animation=&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+
 ---
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zuicy99)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
+
 
 [![zuicy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuicy99&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/zuicy99/github-readme-stats)
  
@@ -24,12 +23,15 @@
     <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="[https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)">
+    <a href="https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=zuicy99&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
+
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zuicy99)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
 
  
 ## 📞 Contact 📞
@@ -41,7 +43,7 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
@@ -64,7 +66,11 @@
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
+
+    
+</div>
+   
 </div><br>
 </div>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+
+
