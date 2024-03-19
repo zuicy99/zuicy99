@@ -20,15 +20,15 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
     <a href="https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
     <a href="mailto:k.zuicy@gmail.com">
         <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zuicy99)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://romantic-fright-7a8.notion.site/81f22e541fe24ae5ae7bb07392ad662c)
   
 </div><br>
 
